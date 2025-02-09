@@ -1,0 +1,6 @@
+@DemoProjectDBOperations_HostAddress = http://localhost:5178
+
+GET {{DemoProjectDBOperations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
